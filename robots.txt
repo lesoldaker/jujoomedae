@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaigoukae.juligra.pl/sitemap.xml
